@@ -1,6 +1,6 @@
 # Hi, I'm Farhaz Khondoker 👋
 
-**Master of Information Systems (Minor in AI) · AI & Cybersecurity Research · Sydney, Australia**
+**Graduate Data Analyst · Master of Information Systems (Minor in AI) · AI & Cybersecurity Research · Sydney, Australia**
 
 🌐 **Portfolio:** [personal-portfolio-rouge-tau-49.vercel.app](https://personal-portfolio-rouge-tau-49.vercel.app) &nbsp;·&nbsp;
 💼 [LinkedIn](https://linkedin.com/in/farhazkhondoker) &nbsp;·&nbsp;
@@ -29,6 +29,8 @@ Examining how well human-in-the-loop defences hold up when AI agents are targete
 |---|---|
 | **Accountant First** ✅ *client-approved* | Multi-tenant practice management SaaS for accounting firms: e-signed proposals, recurring compliance workflows, workload-based task assignment, Stripe billing and Xero sync · React, Node.js, PostgreSQL, Docker · *private client project* |
 | [HR Policy Q&A Assistant](https://github.com/Farhazprojects/HR-Policy-Q-A-Assistant) | RAG + explainable AI for grounded HR policy answers · Next.js, Node.js, PostgreSQL/pgvector · [live](https://hr-policy-qa-assistant.onrender.com) |
+| **ASX Share Price Forecasting** | LSTM forecasts for CBA, NAB and QBE benchmarked against a naive baseline · Python, pandas, TensorFlow · *coursework* |
+| **Age & Gender Estimation** | 18 CNN experiments on 23,708 UTKFace images: 89.8% gender accuracy, 6.9-year age MAE · TensorFlow/Keras · *coursework* |
 | [Marginalia](https://github.com/Farhazprojects/MarginaliaV2) | Research analysis tool with grounded citation checking · React · [live](https://marginalia-beige.vercel.app) |
 | [ML Portfolio](https://github.com/Farhazprojects/ml-portfolio) | Leak-free ML pipeline, a neural net from scratch in NumPy, and a 75-run optimiser study |
 | [BookHaven Cloud Architecture](https://github.com/Farhazprojects/cloud-computing-project-bookhaven) | Highly available, secure AWS architecture across two Availability Zones |
@@ -40,6 +42,7 @@ Examining how well human-in-the-loop defences hold up when AI agents are targete
 
 ## 🧰 Toolkit
 
+**Data analysis:** Python (pandas, NumPy, Matplotlib) · SQL · Excel (advanced) · Power BI · Jupyter
 **Languages:** Python · JavaScript · TypeScript · SQL · C
-**AI/ML:** scikit-learn · deep learning · SHAP/TreeSHAP · RAG · generative AI
+**AI/ML:** scikit-learn · TensorFlow/Keras · deep learning · SHAP/TreeSHAP · RAG · generative AI
 **Engineering:** React · Next.js · Node.js · Docker · GitHub Actions · PostgreSQL · AWS
