@@ -1,4 +1,4 @@
-# Hi, I'm Farhaz Khondoker 👋
+# Hi, I'm Farhaz Khondoker 
 
 **Graduate Data Analyst · Master of Information Systems (Minor in AI) · AI & Cybersecurity Research · Sydney, Australia**
 
