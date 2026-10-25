@@ -29,9 +29,10 @@ Examining how well human-in-the-loop defences hold up when AI agents are targete
 |---|---|
 | **Accountant First** ✅ *client-approved* | Multi-tenant practice management SaaS for accounting firms: e-signed proposals, recurring compliance workflows, workload-based task assignment, Stripe billing and Xero sync · React, Node.js, PostgreSQL, Docker · *private client project* |
 | [HR Policy Q&A Assistant](https://github.com/Farhazprojects/HR-Policy-Q-A-Assistant) | RAG + explainable AI for grounded HR policy answers · Next.js, Node.js, PostgreSQL/pgvector · [live](https://hr-policy-qa-assistant.onrender.com) |
-| **ASX Share Price Forecasting** | LSTM forecasts for CBA, NAB and QBE benchmarked against a naive baseline · Python, pandas, TensorFlow · *coursework* |
-| **Age & Gender Estimation** | 18 CNN experiments on 23,708 UTKFace images: 89.8% gender accuracy, 6.9-year age MAE · TensorFlow/Keras · *coursework* |
+| [ASX Share Price Forecasting](https://github.com/Farhazprojects/academic-portfolio/tree/main/projects/01-deep-learning-cnn-lstm) | LSTM forecasts for CBA, NAB and QBE benchmarked against a naive baseline · Python, pandas, TensorFlow |
+| [Age & Gender Estimation](https://github.com/Farhazprojects/academic-portfolio/tree/main/projects/01-deep-learning-cnn-lstm) | 18 CNN experiments on 23,708 UTKFace images: 89.8% gender accuracy, 6.9-year age MAE · TensorFlow/Keras |
 | [Marginalia](https://github.com/Farhazprojects/MarginaliaV2) | Research analysis tool with grounded citation checking · React · [live](https://marginalia-beige.vercel.app) |
+| [Academic Portfolio](https://github.com/Farhazprojects/academic-portfolio) | 13 case studies with code: YOLO vs DETR object detection, transfer learning, NIR spectroscopy regression, a crypto BI pipeline, AWS IoT, smart meter analysis, a MySQL database and more |
 | [ML Portfolio](https://github.com/Farhazprojects/ml-portfolio) | Leak-free ML pipeline, a neural net from scratch in NumPy, and a 75-run optimiser study |
 | [BookHaven Cloud Architecture](https://github.com/Farhazprojects/cloud-computing-project-bookhaven) | Highly available, secure AWS architecture across two Availability Zones |
 | [AI Mini Bot & Text-to-Image](https://github.com/Farhazprojects/It-Portfolio) | Conversational chatbot and a diffusion-model image generator |
